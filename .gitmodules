@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sensiPhy"]
+	path = sensiPhy
+	url = https://github.com/paternogbc/sensiphy
+	shallow = true
+	registered = true
